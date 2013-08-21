@@ -1,7 +1,8 @@
+##About
 This script will load the last used status when empathy restarts or
 when one of the accounts of the user comes online.
 
-How to use this:
+##How to use this:
 (These guidelines are for Ubuntu 11.04 . But procedure will be lot common
 in other Linux flavours too)
 
